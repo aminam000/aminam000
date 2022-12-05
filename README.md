@@ -2,7 +2,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minneapolis, Minnesota.
 
 ### :woman_technologist: About Me :
-### :telescope: I have experience contributing to the frontend and backend process of building web applications.
+### :telescope: I have experience building the frontend as well as the backend of web applications.
 
 ### :seedling: Currenty, I am curious about Data Science tools such as NLP and Machine Learning Algorithmns.
 
