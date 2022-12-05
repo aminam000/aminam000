@@ -4,7 +4,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minneapolis, Minnesota.
 ### :telescope: I have experience contributing to the frontend and backend process of building web applications.
 
-### :seedling: Currenty, I am curious about Data Science such as NLP and Machine Learning Algorithmns.
+### :seedling: Currenty, I am curious about Data Science tools such as NLP and Machine Learning Algorithmns.
 
 ### :zap: In my free time, I like to try new restaurants and play word games with my friends.
 
