@@ -2,13 +2,13 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minneapolis, Minnesota.
-### :telescope: I have experieence contributing to the frontend and backend process of building web applications.
+### :telescope: I have experience contributing to the frontend and backend process of building web applications.
 
 ### :seedling: Currenty, I am curious about Data Science such as NLP and Machine Learning Algorithmns.
 
 ### :zap: In my free time, I like to try new restaurants and play word games with my friends.
 
-### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/aminamuumin/))
+### :mailbox:How to reach me: [![Linkedin Badge]((https://www.linkedin.com/in/aminamuumin/))](your-linkedin-url)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
