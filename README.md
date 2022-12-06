@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minneapolis, Minnesota.
+I am a Full Stack Developer from Minneapolis, Minnesota. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ### :woman_technologist: About Me :
 ### :telescope: I have experience building the frontend as well as the backend of web applications.
