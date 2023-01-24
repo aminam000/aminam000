@@ -8,7 +8,7 @@ I am a Full Stack Developer from Minneapolis, Minnesota. <img src="https://media
 
 ### :zap: In my free time, I like to try new restaurants and play word games with my friends.
 
-### :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amuumin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aminamuumin/)
+### :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-aminam000-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aminamuumin/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
