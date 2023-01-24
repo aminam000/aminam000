@@ -24,7 +24,7 @@ I am a Full Stack Developer from Minneapolis, Minnesota. <img src="https://media
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <!--
-**amuumin/amuumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aminam000/aminam000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
